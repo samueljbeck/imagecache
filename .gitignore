@@ -1,3 +1,9 @@
 /build
 /diskcache.iml
 .DS_Store
+/local.properties
+/gradlew.bat
+/gradlew
+/gradle
+/.idea
+/.gradle
