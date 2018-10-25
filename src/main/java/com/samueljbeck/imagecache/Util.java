@@ -1,4 +1,4 @@
-package com.samuelbeck.diskcache;
+package com.samueljbeck.imagecache;
 
 /**
  * Created by samuelbeck on 4/11/16.

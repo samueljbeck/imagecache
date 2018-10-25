@@ -1,4 +1,4 @@
-package com.samuelbeck.diskcache;
+package com.samueljbeck.imagecache;
 
 
 /**

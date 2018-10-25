@@ -69,18 +69,18 @@ dependencies {
 //maven code
 ext {
     bintrayRepo = 'utilities'
-    bintrayName = 'diskcache'
+    bintrayName = 'samueljbeck_imagecache'
 
     publishedGroupId = 'com.samueljbeck.utilities'
-    libraryName = 'diskcache'
-    artifact = 'diskcache'
+    libraryName = 'imagecache'
+    artifact = 'imagecache'
 
-    libraryDescription = 'Simple Library for adding and removing values from preferences'
+    libraryDescription = 'Library for caching images both to disk and memory'
 
-    siteUrl = 'https://github.com/samueljbeck/diskcache'
-    gitUrl = 'https://github.com/samueljbeck/diskcache.git'
+    siteUrl = 'https://github.com/samueljbeck/imagecache'
+    gitUrl = 'https://github.com/samueljbeck/imagecache.git'
 
-    libraryVersion = '0.1.0'
+    libraryVersion = '1.0'
 
     developerId = 'samueljbeck'
     developerName = 'Samuel Beck'
